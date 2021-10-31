@@ -1,0 +1,21 @@
+.section {
+  max-width: 400px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  /* border: 2px solid rgba(255, 121, 44, 0.75); */
+  border-radius: 5px;
+  color: rgba(100, 100, 100, 0.8);
+  background-color: rgba(50, 50, 50, 0.1);
+}
+
+.section:first-child {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+.title {
+  padding-bottom: 20px;
+  font-size: 30px;
+}
